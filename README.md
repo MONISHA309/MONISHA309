@@ -1,25 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Monisha Karuppusamy - README</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f5;
+      color: #333;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      text-align: center;
+      color: #0066cc;
+    }
+    h2 {
+      margin-bottom: 10px;
+    }
+    p {
+      text-align: center;
+    }
+    .social-icons img {
+      width: 30px;
+      margin: 5px;
+    }
+    .tech-stack, .projects, .socials {
+      text-align: center;
+    }
+    .tech-stack span, .socials a {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 15px;
+      background-color: #0066cc;
+      color: white;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+    .tech-stack span {
+      background-color: #4CAF50;
+    }
+    .projects a {
+      color: #0066cc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #0066cc;
+      color: white;
+      margin-top: 20px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Monisha Karuppusamy</h1>
+    <h2>💻 Java & Frontend Developer | Web Enthusiast 🌐 | Innovator 🚀</h2>
+    <p>🔭 I’m currently working on MERN Stack and Machine Learning.</p>
+    <p>🌱 I’m learning Data Structures, Algorithms, and Deep Learning.</p>
+    <p>💬 Ask me about Power BI or anything tech-related!</p>
+    <p>⚡ Fun fact: I’m always curious and eager to learn.</p>
 
-<h1 align="center">Hey there! 👋 I'm known as Monisha Karuppusamy</h1>
-<h3 align="center">Java & Frontend Developer 💻 | Web Enthusiast 🌐 | Innovator 🚀</h3>
+    <h2>🌐 Connect with Me:</h2>
+    <div class="socials">
+      <a href="https://linkedin.com/in/monishak309" target="_blank">LinkedIn</a>
+      <a href="https://github.com/MONISHA309" target="_blank">GitHub</a>
+      <a href="https://leetcode.com/user5247dz/" target="_blank">LeetCode</a>
+    </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monisha309&label=Profile%20views&color=0e75b6&style=flat" alt="monisha309" /> </p>
+    <h2>💻 Tech Stack:</h2>
+    <div class="tech-stack">
+      <span>Java</span>
+      <span>C</span>
+      <span>HTML5</span>
+      <span>CSS3</span>
+      <span>JavaScript</span>
+      <span>ReactJS</span>
+      <span>MongoDB</span>
+      <span>MySQL</span>
+      <span>PowerBI</span>
+      <span>Figma</span>
+    </div>
 
-- 🔭 I’m currently working on **MERN Stack and Machine Learning**
+    <h2>🚀 My Projects:</h2>
+    <div class="projects">
+      <p><a href="https://laptopservice.vercel.app/" target="_blank">KEC Laptop Service Website</a> – MERN Stack</p>
+      <p><a href="https://expense-tracker-frontend-theta.vercel.app/" target="_blank">Expense Tracker</a> – MERN Stack</p>
+      <p>Early Detection of Cervical Cancer – Machine Learning</p>
+      <p>Early Detection of Learning Disabilities – Machine Learning</p>
+      <p>Detection of Lung Diseases using Neural Networks – Deep Learning</p>
+    </div>
+  </div>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, deep learning**
-
-- 👯 I’m looking to collaborate on **projects that involve web development, machine learning, and data science.**
-
-- 👨‍💻 All of my projects are available at [https://monisha309.github.io/PORTFOLIO/](https://monisha309.github.io/PORTFOLIO/)
-
-- 💬 Ask me about **Power BI**
-
-- 📫 How to reach me **monisha.aids@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+  <footer>
+    ✍️ "Success is not the key to happiness. Happiness is the key to success."  
+    Let's build something amazing together! 💪
+  </footer>
+</body>
+</html>
